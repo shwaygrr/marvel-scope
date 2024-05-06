@@ -19,16 +19,10 @@ The following **optional** features are implemented:
 
 - [x] Multiple filters can be applied simultaneously
 - [x] Filters use different input types such as a text input, a selection, or a slider
-- [ ] The user can enter specific bounds for filter values
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/shwaygrr/marvel-scope/blob/main/marvel-scope.gif)
+![](https://github.com/shwaygrr/marvel-scope/blob/main/Marvel-Scope-Pro.gif)
 
 GIF created with ClipChamp  
