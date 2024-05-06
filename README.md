@@ -29,6 +29,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/shwaygrr/marvel-scope/blob/main/marvel-scope.gif)
+![](https://github.com/shwaygrr/marvel-scope/blob/main/Marvel-Scope-Pro.gif)
 
 GIF created with ClipChamp  
